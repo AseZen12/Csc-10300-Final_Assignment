@@ -1,2 +1,4 @@
 # Csc-10300-Midterm
-A simple encryption/decryption made by group 10.
+Project Card Board Adventure(C.B.A)
+  
+ This a 2D sidescroller game made in C++ using openFrameworks. Currently, the game is in development and more information will be added later on.
