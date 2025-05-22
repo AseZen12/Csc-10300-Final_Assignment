@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1747653267 source:e:\testing\cscfinalmaybe\main.cpp
+	"raylib.h"
+	"button.h"
+	"dialogue.h"
+	"speaker.h"
+
+1738962234 c:\msys64\ucrt64\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1746472648 c:\msys64\ucrt64\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1746472648 c:\msys64\ucrt64\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1746472648 c:\msys64\ucrt64\include\vadefs.h
+	<_mingw.h>
+
+1746472648 c:\msys64\ucrt64\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_ddk.h"
+
+1746472648 c:\msys64\ucrt64\include\_mingw_mac.h
+
+1746472648 c:\msys64\ucrt64\include\_mingw_secapi.h
+
+1746472648 c:\msys64\ucrt64\include\_cygwin.h
+	<stddef.h>
+
+1746472648 c:\msys64\ucrt64\include\stddef.h
+	<crtdefs.h>
+
+1746472648 c:\msys64\ucrt64\include\crtdefs.h
+	<corecrt.h>
+
+1746472648 c:\msys64\ucrt64\include\corecrt.h
+	<_mingw.h>
+	<winapifamily.h>
+
+1746472648 c:\msys64\ucrt64\include\winapifamily.h
+
+1746472648 c:\msys64\ucrt64\include\sdks\_mingw_ddk.h
+
+1746723174 e:\testing\cscfinalmaybe\button.h
+	"raylib.h"
+
+1746723183 source:e:\testing\cscfinalmaybe\button.cpp
+	"button.h"
+
+1747659432 source:e:\testing\cscfinalmaybe\dialogue.cpp
+	"dialogue.h"
+
+1747658874 e:\testing\cscfinalmaybe\dialogue.h
+	"raylib.h"
+	"speaker.h"
+	<vector>
+	<string>
+
+1747658951 e:\testing\cscfinalmaybe\speaker.h
+	"raylib.h"
+	<string>
+
+1747658956 source:e:\testing\cscfinalmaybe\speaker.cpp
+	"speaker.h"
+
+1746723183 source:c:\users\alchemist\downloads\myproject\button.cpp
+	"button.h"
+
+1746723174 c:\users\alchemist\downloads\myproject\button.h
+	"raylib.h"
+
+1747658956 source:c:\users\alchemist\downloads\myproject\speaker.cpp
+	"speaker.h"
+
+1747658951 c:\users\alchemist\downloads\myproject\speaker.h
+	"raylib.h"
+	<string>
+
+1747864867 source:c:\users\alchemist\downloads\myproject\dialogue.cpp
+	"dialogue.h"
+
+1747658874 c:\users\alchemist\downloads\myproject\dialogue.h
+	"raylib.h"
+	"speaker.h"
+	<vector>
+	<string>
+
+1747870828 source:c:\users\alchemist\downloads\myproject\main.cpp
+	"raylib.h"
+	"button.h"
+	"dialogue.h"
+	"speaker.h"
+
